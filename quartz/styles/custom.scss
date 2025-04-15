@@ -3,7 +3,7 @@
 // put your custom CSS here!
 
 
-H2,H3,H4 {
+H2, {
 border-bottom: 1px dotted #c03;
 width: 100%;
 display: block;
@@ -15,15 +15,26 @@ display: block;
 img + em {
 display: block;
 text-align: center;
-font-size: 0.875em;
+font-size: 0.9em;
 }
 
 // Attempt to center image like I could in Hugo
 // this looks for [[image.jpg#center]] - doesn't work in Quartz 4
 // Q4 interprets this as an Alt tag
+// img[src$='#center'] {
+//    display: block;
+//     margin: 1.0rem auto;
+//     max-width: 100%;
+//     height: auto;
+  }
+
 img[src$='#center'] {
+    float: none;
     display: block;
-     margin: 1.0rem auto;
-     max-width: 100%;
-     height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    border-radius: 10px;
+    max-width: 90%;
+    position: relative;
   }
