@@ -15,7 +15,7 @@ display: block;
 img + em {
 display: block;
 text-align: center;
-font-size: 0.9em;
+font-size: 1em;
 }
 
 // Attempt to center image like I could in Hugo
@@ -30,6 +30,7 @@ font-size: 0.9em;
 
 img[src$='#center'] {
     float: none;
+    margin: 1.0rem auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
