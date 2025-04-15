@@ -2,8 +2,11 @@
 title: Welcome to Quartz
 ---
 
-This is a new Quartz-based site setup fresh by GSW.
+
+## This is a new Quartz-based site setup fresh by GSW. 
 
 ![[Coolcat-Action-Figure-roundheadshot.png]]
-
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
