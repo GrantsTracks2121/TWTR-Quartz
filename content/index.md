@@ -17,7 +17,7 @@ This is the syntax:
 ==This is highlighted text.==
 - what does it look like in both light and dark modes?
 
-![test](<Wow Section of Tintern Abbey.jpg>#center)*test*
+![The bracketed section brought a WOW! from me way back when.](<Wow_Section_of_Tintern_Abbey.jpg>#center)*The bracketed section brought a WOW! from me way back when.*
 
 ### Heading 3
 #### Heading 4
