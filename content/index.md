@@ -9,8 +9,7 @@ title: Welcome to Quartz
 ![[Coolcat-Action-Figure-roundheadshot.png]]
 
 Hooray! The image centered!!
-![Coolcat Action Figure](Coolcat-Action-Figure-roundheadshot.png#center)*
-and this is the caption under the image.*
+![Coolcat Action Figure](Coolcat-Action-Figure-roundheadshot.png#center)*and this is the caption under the image.*
 ### Heading 3
 #### Heading 4
 ##### Heading 5
