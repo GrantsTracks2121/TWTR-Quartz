@@ -5,10 +5,12 @@ title: Welcome to Quartz
 
 ## This is a new Quartz-based site setup fresh by GSW. 
 
-
-![[Coolcat-Action-Figure-roundheadshot.png]]
-
 Hooray! The image centered!!
+
+This is the syntax:
+```
+![alt text](Image.ext#center)
+```
 ![Coolcat Action Figure](Coolcat-Action-Figure-roundheadshot.png#center)*and this is the caption under the image.*
 ### Heading 3
 #### Heading 4
