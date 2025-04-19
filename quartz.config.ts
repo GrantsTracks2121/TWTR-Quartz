@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "goatcounter", websiteId: 'twtr'
     },
     locale: "en-US",
     baseUrl: "thewaythingsare.quest",
