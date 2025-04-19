@@ -17,7 +17,7 @@ $tablet: "(min-width: #{map.get($breakpoints, mobile)}) and (max-width: #{map.ge
 $desktop: "(min-width: #{map.get($breakpoints, desktop)})";
 
 $pageWidth: #{map.get($breakpoints, mobile)};
-$sidePanelWidth: 340px; //380px;originally 320 out of the box Quartz 4
+$sidePanelWidth: 375px; //380px;originally 320 out of the box Quartz 4
 $topSpacing: 6rem;
 $boldWeight: 700;
 $semiBoldWeight: 600;

@@ -17,7 +17,6 @@ This is the syntax:
 ==This is highlighted text.==
 - what does it look like in both light and dark modes?
 
-![The wow section](Wow_Section_of_Tintern_Abbey.jpg#center)*The wow section*
 
 ### Heading 3
 #### Heading 4
