@@ -4,20 +4,13 @@ title: Welcome to The Way Things Are
 
 
 ## This is a new Quartz-based site setup fresh by GSW. 
-
-Hooray! The image centered!!
-
-This is the syntax:
-```
-![alt text](Image.ext#center)
-```
 ![Coolcat Action Figure](Coolcat-Action-Figure-roundheadshot.png#center)
-*and this is the caption under the image.*
+It's pretty obvious that this site is just an empty shell right now. 
 
-==This is highlighted text.==
-- what does it look like in both light and dark modes?
+I hope to change that in the near-ish future.
 
 
+This is what headings look like:
 ### Heading 3
 #### Heading 4
 ##### Heading 5

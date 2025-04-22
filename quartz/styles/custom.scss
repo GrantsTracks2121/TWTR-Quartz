@@ -9,6 +9,15 @@ width: 100%;
 display: block;
 }
 
+// This forces all images to be centered and have rounded corners
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    max-width: 90%
+  }
+
 
 // This allows me to add a caption inside "italics" after an image
 // *This is the caption* <- place this directly after image link
@@ -16,15 +25,15 @@ img + em {
 display: block;
 text-align: center;
 font-size: 1em;
+color: DarkCyan;
 }
 
-// Attempt to center image like I could in Hugo
-// this looks for [[image.jpg#center]] - this now works in Quartz 4
-// but didn't in the past.
+// Centering image with a keyword in the source
+// [[image.jpg#center]]
 
-img[src$='#center'] {
-    display: block;
-     margin: 1.0rem auto;
-     max-width: 100%;
-     height: auto;
-  }
+// img[src$='#center'] {
+//    display: block;
+//     margin: 1.0rem auto;
+//     max-width: 100%;
+//     height: auto;
+//  }
